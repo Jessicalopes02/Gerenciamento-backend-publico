@@ -1,3 +1,6 @@
 "node_modules" 
 "*.dll" 
 "*.exe" 
+"node_modules" 
+"*.dll" 
+"*.exe" 
