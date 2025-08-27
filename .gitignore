@@ -1,7 +1,8 @@
-node_modules/
-*.dll
-*.exe
-*.log
-.local-chromium/
-puppeteer*/**/*
-
+# .gitignore
+.env
+*.key
+*.pem
+*.xlsx
+*.csv
+dist/
+build/
